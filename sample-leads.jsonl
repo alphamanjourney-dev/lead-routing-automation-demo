@@ -1,0 +1,5 @@
+{"name":"Acme Dental","email":"OPS@ACMEDENTAL.EXAMPLE","phone":"+1 415 555 0100","country":"US","budget":12000,"company_size":45,"source":"website","service_interest":"AI lead routing CRM automation","message":"Need website enquiries qualified and routed with webhook alerts"}
+{"name":"Loja Atlas","email":"vendas@atlas.example","phone":"+55 48 99999 1010","country":"BR","budget":4500,"company_size":12,"source":"referral","service_interest":"WhatsApp automation","message":"Need follow-up workflow and CRM integration"}
+{"name":"Acme Duplicate","email":"ops@acmedental.example","country":"US","budget":5000,"company_size":45,"source":"inbound","service_interest":"automation","message":"duplicate test"}
+{"name":"Broken Lead","email":"not-an-email","country":"CA","budget":"unknown","company_size":1}
+{"name":"Small Studio","email":"hello@studio.example","country":"GB","budget":700,"company_size":2,"source":"website","service_interest":"reporting workflow","message":"Need repetitive admin reduced"}
